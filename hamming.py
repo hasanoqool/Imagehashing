@@ -15,5 +15,5 @@ def hamming_dis():
 
 if __name__ == "__main__":
     result = hamming_dis()
-    print(hamming_dis.__doc__)
+    # print(hamming_dis.__doc__)
     print(result)
